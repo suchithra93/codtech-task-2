@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Classification</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Text Classification Tool</h1>
+    <form id="classificationForm">
+      <label for="textInput">Enter Text:</label>
+      <textarea id="textInput" rows="5" placeholder="Type your text here..."></textarea>
+
+      <label for="category">Select Category:</label>
+      <select id="category">
+        <option value="sentiment">Sentiment Analysis</option>
+        <option value="topic">Topic Detection</option>
+        <option value="spam">Spam Detection</option>
+      </select>
+
+      <button type="button" id="classifyButton">Classify</button>
+    </form>
+
+    <div id="result" class="hidden">
+      <h2>Classification Result:</h2>
+      <p id="classificationOutput"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
