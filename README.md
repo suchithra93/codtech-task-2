@@ -10,11 +10,14 @@ PROJECT: TEXT CLASSIFICATION USING NLP
 
 INTRODUCTION:                                                                                                                                                                                                     
     
-    Text classification is a fundamental task in Natural Language Processing (NLP) that involves categorizing text into predefined categories. This project aims to develop a robust text classification system using advanced NLP techniques to address a specific problem domain. The focus is on automating the analysis of text data, enhancing efficiency, and providing actionable insights.
+    1.Text classification is a fundamental task in Natural Language Processing (NLP) that involves categorizing text into predefined categories.                                                                  
+    2.This project aims to develop a robust text classification system using advanced NLP techniques to address a specific problem domain.                                                                        
+    3.The focus is on automating the analysis of text data, enhancing efficiency, and providing actionable insights.                                                                                              
 
 OBJECTIVE:                                                                                                                                                                                                        
-      
-      To build an accurate and efficient text classification system that can process textual data and assign it to one of the predefined categories. The system will leverage state-of-the-art machine learning and deep learning models to achieve high accuracy and adaptability across various text classification tasks.
+  
+     1. To build an accurate and efficient text classification system that can process textual data and assign it to one of the predefined categories.                                                            
+     2. The system will leverage state-of-the-art machine learning and deep learning models to achieve high accuracy and adaptability across various text classification tasks.                                   
 
 USE CASE:
      The project will focus on a specific NLP problem domain, such as:
